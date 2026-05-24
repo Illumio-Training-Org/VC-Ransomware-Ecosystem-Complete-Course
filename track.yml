@@ -1,0 +1,46 @@
+slug: 322-ransomware-ecosystem
+id: nshgawjl2qmo
+revision: 1
+title: 322-Ransomware-Ecosystem
+teaser: The complete eight-module Ransomware Ecosystem self-paced course — from foundational
+  research to the Illumio response — in a single track.
+description: |-
+  This is the complete Ransomware Ecosystem self-paced course delivered as a single track. Eight modules cover the full picture: the criminal and defender ecosystem, the kill chain, negotiation, recovery architecture, legal and regulatory obligations, tabletop scenarios, global cost data, and the Illumio breach containment response.
+
+  Each assignment covers one full module. Work through them in order or skip to the module most relevant to your current role or incident.
+
+  Estimated completion time: 20–25 hours (full course) or 2–4 hours per module
+  Audience: Security professionals and SOC analysts
+icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+level: intermediate
+tags:
+- breach-containment
+- cybersecurity
+- illumio
+- legal
+- mitre-attack
+- negotiation
+- ransomware
+- recovery
+- segmentation
+- self-paced
+- tabletop
+- tradecraft
+owner: illumio-training
+developers:
+- nathan.mitchell@illumio.com
+instructors: []
+skipping_enabled: true
+idle_timeout: 3600
+timelimit: 0
+lab_config:
+  extend_ttl: 0
+  sidebar_enabled: true
+  hideStopButton: false
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  override_challenge_layout: false
+  default_layout: AssignmentLeft
+  default_layout_sidebar_size: 50
+  loadingMessages: true
+enhanced_loading: null
