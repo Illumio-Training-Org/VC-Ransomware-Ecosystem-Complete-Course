@@ -11,7 +11,7 @@ description: |-
 
   Estimated completion time: 20–25 hours (full course) or 2–4 hours per module
   Audience: Security professionals and SOC analysts
-icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+icon: go back to the ransomware complete course and add this icon to the title https://play.instruqt.com/assets/tracks/appzpyjbyvia/5eceb2f9f4a44f1f8d6c6e265b9c86c1/assets/logo.png
 tags:
 - breach-containment
 - cybersecurity
@@ -39,8 +39,5 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  override_challenge_layout: false
-  default_layout: AssignmentLeft
-  default_layout_sidebar_size: 50
   loadingMessages: true
 enhanced_loading: null
