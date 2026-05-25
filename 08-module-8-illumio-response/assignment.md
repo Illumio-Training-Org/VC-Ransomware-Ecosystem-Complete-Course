@@ -28,6 +28,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before pressing **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & The Illumio Breach Containment Platform
 
 Welcome to the final module. Across Modules 1-7 you built a complete picture of how ransomware works and what it costs. In this module you will see how one defender-side platform — Illumio — answers that picture, module by module. Before you reach those responses, this first challenge gives you the four capabilities you will refer to for the rest of the lab.

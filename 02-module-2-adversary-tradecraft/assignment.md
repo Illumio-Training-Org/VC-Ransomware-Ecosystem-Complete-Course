@@ -32,6 +32,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before pressing **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & Kill Chain Overview
 
 In this module you will complete **Module 2 of the Ransomware Ecosystem course** by reading and reflecting on **adversary tradecraft across the full kill chain** and engaging with **detection content, telemetry sources, and actor profiles relevant to your environment**.

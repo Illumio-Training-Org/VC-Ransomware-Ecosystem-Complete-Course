@@ -28,6 +28,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before pressing **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & The Ransomware Security Gap
 
 In this module you will work through the **Global Cost of Ransomware Study** (Ponemon Institute, January 2025), extracting operational insight from survey data covering 2,547 IT and cybersecurity practitioners across the U.S., U.K., Germany, France, Australia, and Japan.

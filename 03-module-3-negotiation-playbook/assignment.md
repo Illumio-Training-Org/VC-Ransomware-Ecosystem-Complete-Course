@@ -35,6 +35,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before pressing **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & The Pay/No-Pay Decision
 
 In this module you will complete **Module 3 of the Ransomware Ecosystem course** by reading and reflecting on **negotiation tactics, decision frames, and legal constraints** and engaging with **the decisions your organization must make before, during, and after a ransomware extortion event**.

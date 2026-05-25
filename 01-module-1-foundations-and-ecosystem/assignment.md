@@ -32,6 +32,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before selecting **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & Executive Summary
 
 In this module you will complete **Module 1 of the Ransomware Ecosystem course** by reading and reflecting on **the executive summary and course foundations** and engaging with **ransomware as an economic, technical, and governance problem**.

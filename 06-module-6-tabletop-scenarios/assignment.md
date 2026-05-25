@@ -29,6 +29,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before pressing **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & Anchor Organization
 
 In this module you will complete the **Tabletop Scenario Library** by working through **six realistic ransomware scenarios** built on a single fictional anchor organization — Northwind Logistics. Each scenario is self-contained and designed to surface specific gaps in process, governance, and decision authority.

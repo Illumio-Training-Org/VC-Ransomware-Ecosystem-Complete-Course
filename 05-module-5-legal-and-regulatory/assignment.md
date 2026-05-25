@@ -35,6 +35,13 @@ lab_config:
 enhanced_loading: null
 ---
 
+# ⚠️ Before You Begin
+
+> [!WARNING]
+> **The reading content in the left column and the lab challenge in the right column work together.** Complete the reading of the instructions first, then complete the lab challenge before pressing **Next** at the bottom of this page.
+
+---
+
 # Task 1: Introduction & The U.S. Federal Regime
 
 In this module you will complete **Module 5 of the Ransomware Ecosystem course** by reading and reflecting on **the legal and regulatory obligations a ransomware incident triggers** and engaging with **the decisions that must be made in the first 72 hours before obligations become violations**.
