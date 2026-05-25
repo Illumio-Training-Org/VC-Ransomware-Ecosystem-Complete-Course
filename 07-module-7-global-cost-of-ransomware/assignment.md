@@ -16,7 +16,8 @@ notes:
 
     **The most important number in this module is not a dollar figure. It is 13% — the fraction of organizations who paid the ransom and recovered all their data.**
 tabs:
-- title: Challenge
+- id: iqqhu3y6xqpg
+  title: Challenge
   type: service
   hostname: bookworm
   port: 8080

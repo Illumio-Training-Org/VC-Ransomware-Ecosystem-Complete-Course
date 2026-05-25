@@ -17,7 +17,8 @@ notes:
 
     **The first time your team encounters a real ransomware incident should not be the first time they encounter a ransomware incident.**
 tabs:
-- title: Challenge
+- id: yrayuulqoua8
+  title: Challenge
   type: service
   hostname: bookworm
   port: 8080

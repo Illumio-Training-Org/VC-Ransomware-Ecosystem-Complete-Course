@@ -16,7 +16,8 @@ notes:
 
     **The single takeaway: Illumio's contribution is strongest in the middle of the ransomware lifecycle — discovery, lateral movement, and containment — and it reinforces, rather than replaces, the identity, endpoint, recovery, and legal disciplines the other modules describe.**
 tabs:
-- title: Challenge
+- id: l3t58zcqsnxx
+  title: Challenge
   type: service
   hostname: bookworm
   port: 8080

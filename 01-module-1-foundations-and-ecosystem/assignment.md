@@ -20,7 +20,8 @@ notes:
     **Estimated module time:** 3–4 hours
     **Challenges in this track:** 8
 tabs:
-- title: Challenge
+- id: xkwt0ondl9bz
+  title: Challenge
   type: service
   hostname: bookworm
   port: 8080
