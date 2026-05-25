@@ -1,0 +1,2 @@
+curl -L -o index.html \
+https://raw.githubusercontent.com/Illumio-Training-Org/Ransomware-01-Labs/main/index2.html

@@ -17,5 +17,6 @@ https://raw.githubusercontent.com/Illumio-Training-Org/Ransomware-01-Labs/main/i
 
 python3 -m http.server 8080 > server.log 2>&1 &
 echo "server started"
+echo $! > /opt/lab/server.pid 
 sleep 2
 cat server.log
