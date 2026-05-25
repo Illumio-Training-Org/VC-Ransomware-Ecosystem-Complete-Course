@@ -12,7 +12,6 @@ description: |-
   Estimated completion time: 20–25 hours (full course) or 2–4 hours per module
   Audience: Security professionals and SOC analysts
 icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
-level: intermediate
 tags:
 - breach-containment
 - cybersecurity
@@ -33,6 +32,7 @@ instructors: []
 skipping_enabled: true
 idle_timeout: 3600
 timelimit: 0
+sandbox_preset: bookworm-preset
 lab_config:
   extend_ttl: 0
   sidebar_enabled: true
