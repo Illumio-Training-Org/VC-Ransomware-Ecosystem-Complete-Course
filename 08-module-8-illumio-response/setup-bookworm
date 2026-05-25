@@ -1,21 +1,4 @@
 #!bin/sh
-
-apt-get update -o Acquire::Check-Valid-Until=false \
-                -o Acquire::Languages=none \
-                -o Dir::Cache::pkgcache="" \
-                -o Dir::Cache::srcpkgcache="" \
-&& apt-get install -y --no-install-recommends curl \
-&& rm -rf /var/lib/apt/lists/*
-
-mkdir /opt/lab
-
 cd /opt/lab
-
 curl -L -o index.html \
 https://raw.githubusercontent.com/Illumio-Training-Org/Ransomware-01-Labs/main/index8.html
-
-
-python3 -m http.server 8080 > server.log 2>&1 &
-echo "server started"
-sleep 2
-cat server.log
