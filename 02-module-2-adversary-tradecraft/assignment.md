@@ -19,6 +19,11 @@ notes:
 
     **Estimated module time:** 3–4 hours
     **Challenges in this track:** 8
+tabs:
+- title: Challenge
+  type: service
+  hostname: bookworm
+  port: 8080
 difficulty: ""
 timelimit: 7200
 lab_config:

@@ -15,6 +15,11 @@ notes:
     The data answers three questions that matter at the decision table: **What does ransomware actually cost?** **Why do organizations pay — and does it help?** **What closes the gap between defenders and attackers?**
 
     **The most important number in this module is not a dollar figure. It is 13% — the fraction of organizations who paid the ransom and recovered all their data.**
+tabs:
+- title: Challenge
+  type: service
+  hostname: bookworm
+  port: 8080
 difficulty: ""
 timelimit: 7200
 lab_config:

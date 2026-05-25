@@ -16,6 +16,11 @@ notes:
     Each scenario runs 60–120 minutes, solo or facilitator-led. They are designed to probe process, governance, decision-making, and runbook completeness — the places where real incidents are won or lost.
 
     **The first time your team encounters a real ransomware incident should not be the first time they encounter a ransomware incident.**
+tabs:
+- title: Challenge
+  type: service
+  hostname: bookworm
+  port: 8080
 difficulty: ""
 timelimit: 7200
 lab_config:
