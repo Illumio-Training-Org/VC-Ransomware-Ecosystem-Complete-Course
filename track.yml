@@ -42,5 +42,6 @@ lab_config:
   feedback_tab_enabled: false
   override_challenge_layout: false
   default_layout: AssignmentLeft
+  default_layout_sidebar_size: 50
   loadingMessages: true
 enhanced_loading: null
