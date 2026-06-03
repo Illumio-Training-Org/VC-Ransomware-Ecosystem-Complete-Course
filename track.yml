@@ -41,5 +41,6 @@ lab_config:
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   override_challenge_layout: false
+  default_layout: AssignmentLeft
   loadingMessages: true
 enhanced_loading: null
